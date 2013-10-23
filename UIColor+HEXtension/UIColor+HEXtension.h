@@ -1,9 +1,8 @@
 //
-//  DSEntity.m
-//  DSTVDBClient
+//  UIColor+HEXtension.m
+//  Extensiones
 //
-//  Created by Adolfo on 03/10/13.
-//  Copyright (c) 2013 Desappstre Studio. All rights reserved.
+//  Created by Adolfo on 23/10/13.
 //
 
 #import <Foundation/Foundation.h>
